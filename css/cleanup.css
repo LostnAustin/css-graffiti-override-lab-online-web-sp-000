@@ -4,21 +4,21 @@
   display: none;
 }
 
-  #tag-2 {
+#wall  #tag-2 {
   display: none;
 }
-  #tag-3 {
+#wall  #tag-3 {
   display: none;
 }
-  #tag-4 {
+#wall .parent #tag-4 {
   display: none;
 }
-  #tag-5 {
+.parent .slick  #tag-5 {
   display: none;
 }
-  #tag-6 {
+.parent #tag-6 {
   display: none;
 }
- #tag-7 {
+.parent .slick #tag-7 {
   display: none;
 }
